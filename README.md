@@ -1,7 +1,10 @@
 
 
 
-## Images
+# Portfolio
 
-![trade](https://github.com/Tooblippe/portfolio/blob/master/projects/international-trade-application/assets/case-slide-trade.PNG)
+* [International trade application](https://github.com/Tooblippe/portfolio/tree/master/projects/international-trade-application)
+
+
+
 
