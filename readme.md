@@ -1,6 +1,3 @@
-# My Portfolio
-
-
 ## About me
 I am an electrical engineer with more that 20 years experience within the energy supply and consulting environment.
 My passion for Python development have set me down a very slow but steady path to where I find myself today as a freelance full stack developer.
