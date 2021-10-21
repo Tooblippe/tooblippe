@@ -8,7 +8,9 @@ companies and government agencies around the world.
 
 > I really do figure out how to do, analyse and automate the things that is not obvious and documented.
 
-## Software Projects and solutions
+
+![porfolio](assets/portfolio.PNG)
+
 * [International trade application](projects/international-trade-application/readme.md)
 * Tailored engineering applications 
 * Scientific analysis automated (Fourier transforms and Polar analysis)
