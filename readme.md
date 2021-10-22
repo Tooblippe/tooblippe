@@ -2,7 +2,7 @@
 
 
 
-<img src="assets/tooblippe.jpg" alt="drawing" width="200"/>
+<img src="assets/tooblippe.jpg" alt="drawing" width="200" style="float: right;"/>
 
 
 
