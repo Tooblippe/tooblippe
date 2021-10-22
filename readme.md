@@ -1,5 +1,11 @@
 ![porfolio](assets/about-me.PNG)
 
+
+
+<img src="assets/tooblippe.jpg" alt="drawing" width="200"/>
+
+
+
 I am an electrical engineer with more that 20 years experience in
 the energy supply and consulting environment.
 
