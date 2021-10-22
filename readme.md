@@ -13,7 +13,7 @@ companies and government agencies around the world.
 ![porfolio](assets/portfolio.PNG)
 
 * [International trade application](projects/international-trade-application/readme.md)
-* [Tailored electrical engineering solution](projects/electrical-engineering/assets/electrical-engineering.png)
+* [Tailored electrical engineering solution](projects/electrical-engineering/assets/loadflow.png)
 * Scientific analysis automated (Fourier transforms and Polar analysis)
 * Engineering automation
 * Engineering drawings 
