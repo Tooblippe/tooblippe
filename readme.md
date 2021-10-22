@@ -6,6 +6,7 @@ Most of my clients are in the engineering space although my largest project is a
 companies and government agencies around the world.
 
 
+
 > I really do figure out how to do, analyse and automate the things that is not obvious and documented.
 
 
