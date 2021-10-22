@@ -1,13 +1,24 @@
 ![porfolio](assets/about-me.PNG)
-I am an electrical engineer with more that 20 years experience within the energy supply and consulting environment.
-My passion for Python development have set me down a very slow but steady path to where I find myself today as a freelance full stack developer.
 
-Most of my clients are in the engineering space although my largest project is an internantional trade application that is used by many 
-companies and government agencies around the world.
+I am an electrical engineer with more that 20 years experience in
+the energy supply and consulting environment.
 
+My passion for Python development have set me down a slow but 
+steady path to become a self employed full stack developer.
 
+Most of my clients are in the engineering space although 
+my largest project is an international trade application 
+that is used by companies and government agencies 
+around the world.
 
-> I really do figure out how to do, analyse and automate the things that is not obvious and documented.
+I help my clients automate the engineering tasks of:
+* Data acquisition
+* Data analysis
+* Automated reporting in many different formats
+* Tailored web applications and BI application
+
+Below is a listing of some of the interesting work have been doing with my clients.
+Almost all of the solutions have been implemented using Python.
 
 
 ![porfolio](assets/portfolio.PNG)
