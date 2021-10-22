@@ -1,0 +1,1 @@
+![industrial analysis](assets/industrial-analysis.png)

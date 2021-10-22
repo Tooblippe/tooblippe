@@ -14,7 +14,7 @@ companies and government agencies around the world.
 
 * [International trade application](projects/international-trade-application/readme.md)
 * [Tailored electrical engineering solution](projects/electrical-engineering/assets/loadflow.png)
-* Scientific analysis automated (Fourier transforms and Polar analysis)
+* Mining scientific analysis automated (Fourier transforms and Polar analysis)
 * Engineering automation
 * Engineering drawings 
 * Very large Engineering data sets analysis
