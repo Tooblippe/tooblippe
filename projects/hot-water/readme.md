@@ -1,0 +1,1 @@
+![hot water](assets/hot-water.png)
