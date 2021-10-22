@@ -24,7 +24,7 @@ Almost all of the solutions have been implemented using Python.
 ![porfolio](assets/portfolio.PNG)
 
 * [International trade application](projects/international-trade-application/readme.md)
-* [Tailored electrical engineering solution](projects/electrical-engineering/assets/loadflow.png)
+* [Tailored electrical engineering solution](projects/electrical-engineering/readme.md)
 * [Mining scientific analysis automated (Fourier transforms and Polar analysis)](projects/industrial-analysis/readme.md)
 * [Water heating research](projects/hot-water/readme.md)
 * Engineering automation
