@@ -33,13 +33,13 @@ Almost all of the solutions have been implemented using Python.
 * [Tailored electrical engineering solution](projects/electrical-engineering/readme.md)
 * [Mining scientific analysis automated (Fourier transforms and Polar analysis)](projects/industrial-analysis/readme.md)
 * [Water heating research](projects/hot-water/readme.md)
+* [Specialized email automation](projects/specialised-email/readme.md)
+* Automated social media posting
 * Engineering automation
 * Engineering drawings 
 * Very large Engineering data sets analysis
 * Automated data acquisition
-* Specialized email automation
 * Critical analytics graphs 
-* Social media posting 
 * Automated PDF generation
 * Automated PowerPoint presentations
 * Mailing list integration
