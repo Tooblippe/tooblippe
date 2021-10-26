@@ -1,4 +1,4 @@
-![porfolio](assets/about-me.PNG)
+![porfolio](assets/about-me.png)
 
 
 
@@ -27,7 +27,7 @@ Below is a listing of some of the interesting work have been doing with my clien
 Almost all of the solutions have been implemented using Python.
 
 
-![porfolio](assets/portfolio.PNG)
+![porfolio](assets/portfolio.png)
 
 * [International trade application](projects/international-trade-application/readme.md)
 * [Tailored electrical engineering solution](projects/electrical-engineering/readme.md)
