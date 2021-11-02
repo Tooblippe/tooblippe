@@ -1,8 +1,8 @@
-![porfolio](assets/about-me.png)
+![porfolio](assets/about-me.png "about me")
 
 
 
-<img src="assets/tooblippe.jpg" alt="drawing" width="200" style="float: right;"/>
+<img src="assets/tooblippe.jpg" alt="drawing" width="200" style="float: right;" title="tobie nortje"/>
 
 
 
@@ -26,6 +26,7 @@ I help my clients automate the engineering tasks of:
 Below is a listing of some of the interesting work have been doing with my clients.
 Almost all of the solutions have been implemented using Python.
 
+### Download my [CV](assets/tobie_nortje_cv.pdf) here
 
 ![porfolio](assets/portfolio.png)
 
@@ -34,13 +35,14 @@ Almost all of the solutions have been implemented using Python.
 * [Mining scientific analysis automated (Fourier transforms and Polar analysis)](projects/industrial-analysis/readme.md)
 * [Water heating research](projects/hot-water/readme.md)
 * [Specialized email automation](projects/specialised-email/readme.md)
+* Automated PDF generation
+* Programatic block diagrams
 * Automated social media posting
 * Engineering automation
 * Engineering drawings 
 * Very large Engineering data sets analysis
 * Automated data acquisition
 * Critical analytics graphs 
-* Automated PDF generation
 * Automated PowerPoint presentations
 * Mailing list integration
 
