@@ -26,7 +26,8 @@ I help my clients automate the engineering tasks of:
 Below is a listing of some of the interesting work have been doing with my clients.
 Almost all of the solutions have been implemented using Python.
 
-### Download my [CV](assets/tobie_nortje_cv.pdf) here
+### curriculum vitae
+ Download my [curriculum vitae](assets/tobie_nortje_cv.pdf) here
 
 ![porfolio](assets/portfolio.png)
 
