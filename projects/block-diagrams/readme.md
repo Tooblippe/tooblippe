@@ -1,0 +1,1 @@
+![block-diagrams](assets/block-diagram.png)

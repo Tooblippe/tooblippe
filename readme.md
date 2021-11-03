@@ -49,7 +49,7 @@ Get in touch to discuss how we can automate your boring tasts -
 * [Automated PDF generation](projects/automated-pdf/readme.md)
 * [Python training and courses](projects/python-course/readme.md)
 * [Printed Circuit Board design and assembly for brick making robots](projects/pcb/readme.md)
-* Programmatic block diagrams
+* [Programmatic block diagrams and flow charts](projects/block-diagrams/readme.md)
 * Automated social media posting
 * Big Engineering data sets analysis
 * Automated data acquisition
@@ -59,7 +59,7 @@ Get in touch to discuss how we can automate your boring tasts -
 I have presented Python talks and python courses to large companies and individuals
 * PyConZa
 * CSIR
-* Denel
+* Denel (Focus on Matlab vs Python)
 * Private Python Beginners Course
 
 ## I use the following tools 
