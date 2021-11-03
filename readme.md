@@ -36,6 +36,8 @@ Get in touch to discuss how we can automate your boring tasts -
 
 <img alt="linked-in" src="assets/social/linked-in.png" width="20"/> [LinkedIn](https://www.linkedin.com/in/tobienortje/)
 
+<img alt="www" src="assets/social/www.png" width="20"/> [Github](https://https://github.com/Tooblippe)
+
 
 
 ![porfolio](assets/portfolio.png)
