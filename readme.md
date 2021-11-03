@@ -53,7 +53,7 @@ Get in touch to discuss how we can automate your boring tasts -
 * Automated data acquisition
 * Automated PowerPoint presentations
 * Mailing list integration
-* Python training and courses
+* [Python training and courses](projects/python-course/readme.md)
 
 ## Hardware projects
 * Printed Circuit Board design and assembly for brick making robots
