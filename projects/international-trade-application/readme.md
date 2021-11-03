@@ -1,10 +1,10 @@
 ![trade](assets/case-slide-trade.PNG)
 
-#### Development of international trade application that is used by clients and governments in South-Africa, Australia, New-Zealand and Europe,
+### Development of international trade application that is used by clients and governments in South-Africa, Australia, New-Zealand and Europe,
 
 # Background
 An internationally acclaimed Economist developed an international trade application for local and international clients.
-The initial application was shipped as a Qlik (Tableau) package. The prohibitive licencing costs, significant effort to update
+The initial application was shipped as a `Qlik (Tableau)` package. The prohibitive licencing costs, significant effort to update
 as well as the extremely large datasets made this distribution model difficult. The application was ported to a web application.
 
 
@@ -40,8 +40,8 @@ more advanced users to fine tune a specific economic study.
 
 
 ## Timeframe and Budget
-The project was developed over a period of two years with a Budget of R1,500,000.
-The appication is stull under development and more features are introduced during a 6 week cycle.
+The project was developed over a period of two years with a Budget of `R1,500,000`.
+The appication is stull under development and more features are introduced during a `6 week` cycle.
 
 # Tools Employed
 ## Frontend
