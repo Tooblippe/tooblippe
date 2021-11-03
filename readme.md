@@ -1,4 +1,4 @@
-![porfolio](assets/about-me.png "about me")
+![porfolio](assets/about-me2.png "about me")
 
 
 
@@ -39,7 +39,7 @@ Get in touch to discuss how we can automate your boring tasts -
 <img alt="www" src="assets/social/www.png" width="20"/> [Github](https://github.com/Tooblippe)
 
 
-![porfolio](assets/portfolio.png)
+![porfolio](assets/portfolio1.png)
 
 * [International trade application](projects/international-trade-application/readme.md)
 * [Tailored electrical engineering solution](projects/electrical-engineering/readme.md)
