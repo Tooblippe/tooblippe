@@ -30,7 +30,9 @@ Almost all of the solutions have been implemented using Python.
  Download my [Curriculum Vitae](assets/tobie_nortje_cv.pdf) here.
 
 ## Get in touch
-Get in touch to discuss how we can automate your boring tasts - tobie dot nortje at gmail dot com
+Get in touch to discuss how we can automate your boring tasts - 
+
+<img alt="email" src="assets/social/email.png" width="20"/> tobie dot nortje at gmail dot com
 
 
 ![porfolio](assets/portfolio.png)
