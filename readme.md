@@ -34,6 +34,9 @@ Get in touch to discuss how we can automate your boring tasts -
 
 <img alt="email" src="assets/social/email.png" width="20"/> tobie dot nortje at gmail dot com
 
+<img alt="linked-in" src="assets/social/linked-in.png" width="20"/> [LinkedIn](https://www.linkedin.com/in/tobienortje/)
+
+
 
 ![porfolio](assets/portfolio.png)
 
