@@ -1,0 +1,1 @@
+![automated-pdf](assets/automated-pdf.png)

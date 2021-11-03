@@ -40,7 +40,7 @@ Get in touch to discuss how we can automate your boring tasts - tobie dot nortje
 * [Mining scientific analysis automated (Fourier transforms and Polar analysis)](projects/industrial-analysis/readme.md)
 * [Water heating research](projects/hot-water/readme.md)
 * [Specialized email automation](projects/specialised-email/readme.md)
-* Automated PDF generation
+* [Automated PDF generation](projects/automated-pdf/readme.md)
 * Programatic block diagrams
 * Automated social media posting
 * Engineering automation
