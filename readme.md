@@ -21,7 +21,7 @@ I help my clients automate the engineering tasks of:
 * Data acquisition
 * Data analysis
 * Automated reporting in many different formats
-* Tailored web applications and BI application
+* Tailored web applications and BI applications
 
 Below is a listing of some of the interesting work have been doing with my clients.
 Almost all of the solutions have been implemented using Python.
