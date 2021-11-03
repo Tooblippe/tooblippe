@@ -47,15 +47,12 @@ Get in touch to discuss how we can automate your boring tasts -
 * [Water heating research](projects/hot-water/readme.md)
 * [Specialized email automation](projects/specialised-email/readme.md)
 * [Automated PDF generation](projects/automated-pdf/readme.md)
-* Programatic block diagrams
+* [Python training and courses](projects/python-course/readme.md)
+* Programmatic block diagrams
 * Automated social media posting
 * Big Engineering data sets analysis
 * Automated data acquisition
-* Automated PowerPoint presentations
 * Mailing list integration
-* [Python training and courses](projects/python-course/readme.md)
-
-## Hardware projects
 * Printed Circuit Board design and assembly for brick making robots
 
 ## Talks, Training and Conferences
@@ -64,9 +61,8 @@ I have presented Python talks and python courses to large companies and individu
 * CSIR
 * Denel
 * Private Python Beginners Course
-* Slides
 
-## Tools 
+## I use the following tools 
 * Pycharm
 * VSCode
 * github
@@ -84,3 +80,4 @@ I have presented Python talks and python courses to large companies and individu
 * Linode
 * AWS
 * Azure
+* localhost
