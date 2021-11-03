@@ -29,6 +29,10 @@ Almost all of the solutions have been implemented using Python.
 ## Curriculum Vitae
  Download my [Curriculum Vitae](assets/tobie_nortje_cv.pdf) here.
 
+## Get in touch
+Get in touch to discuss how we can automate your boring tasts - tobie dot nortje at gmail dot com
+
+
 ![porfolio](assets/portfolio.png)
 
 * [International trade application](projects/international-trade-application/readme.md)
