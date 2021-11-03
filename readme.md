@@ -9,7 +9,7 @@
 I am an electrical engineer with more that 20 years experience in
 the energy supply and consulting environment.
 
-My passion for Python development have set me down a slow but 
+My passion for `Python development` have set me down a slow but 
 steady path to become a self employed full stack developer.
 
 Most of my clients are in the engineering space although 
@@ -49,17 +49,14 @@ Get in touch to discuss how we can automate your boring tasts -
 * [Automated PDF generation](projects/automated-pdf/readme.md)
 * Programatic block diagrams
 * Automated social media posting
-* Engineering automation
-* Engineering drawings 
-* Very large Engineering data sets analysis
+* Big Engineering data sets analysis
 * Automated data acquisition
-* Critical analytics graphs 
 * Automated PowerPoint presentations
 * Mailing list integration
+* Python training and courses
 
 ## Hardware projects
 * Printed Circuit Board design and assembly for brick making robots
-
 
 ## Talks, Training and Conferences
 I have presented Python talks and python courses to large companies and individuals
