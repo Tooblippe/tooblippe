@@ -48,12 +48,12 @@ Get in touch to discuss how we can automate your boring tasts -
 * [Specialized email automation](projects/specialised-email/readme.md)
 * [Automated PDF generation](projects/automated-pdf/readme.md)
 * [Python training and courses](projects/python-course/readme.md)
+* [Printed Circuit Board design and assembly for brick making robots](projects/pcb/readme.md)
 * Programmatic block diagrams
 * Automated social media posting
 * Big Engineering data sets analysis
 * Automated data acquisition
 * Mailing list integration
-* Printed Circuit Board design and assembly for brick making robots
 
 ## Talks, Training and Conferences
 I have presented Python talks and python courses to large companies and individuals
