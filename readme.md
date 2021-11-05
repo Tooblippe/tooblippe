@@ -3,7 +3,7 @@
 
 
 
-![manim](assets/output.gif)
+[comment]: <> (![manim]&#40;assets/output.gif&#41;)
 
 I am an electrical engineer with more that 20 years experience in
 the energy supply and consulting environment.
