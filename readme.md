@@ -3,7 +3,7 @@
 
 
 
-![manim](assets/header_vid2.gif)
+![manim](assets/header_vid.gif)
 
 I am an electrical engineer with more that 20 years experience in
 the energy supply and consulting environment.
