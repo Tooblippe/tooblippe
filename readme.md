@@ -1,10 +1,9 @@
 ![porfolio](assets/about-me2.png "about me")
 
 
-![vid](assets/xxx.webm)
-<img src="assets/tooblippe.jpg" alt="drawing" width="200" style="float: right;" title="tobie nortje"/>
 
 
+![manim](assets/output.gif)
 
 I am an electrical engineer with more that 20 years experience in
 the energy supply and consulting environment.
