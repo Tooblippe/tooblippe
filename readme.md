@@ -80,3 +80,7 @@ I have presented Python talks and python courses to large companies and individu
 * AWS
 * Azure
 * localhost
+
+
+# Writings
+* [Some postings and analysis](postings/postings_index.md)
