@@ -1,13 +1,18 @@
 # Classes and Inheritance
 
-````python
+```python
 class Student(Person):
     def __init__(self, fname, lname):
         Person.__init__(self, fname, lname)
 
 ````
 
+* @property
+* @staticmethod
+* 
 # Data Classes
+
+* No explisit init function
 
 ```python
 from dataclasses import dataclass, field
@@ -48,6 +53,9 @@ print(Klass3.friends)
 ```
 
 # Protocol
+
+* Defines an interface of an object it can receive
+* If it doen not compeltely look like a duck, but it can quack like a duck then call the quack method
 
 ```python
 from typing import Protocol
@@ -91,6 +99,8 @@ def main() -> None:
 
 # Abstract Base Classes
 
+* Forces the subclasses of the main class to implement certain methods
+
 ```python
 
 from abc import ABC, abstractmethod
@@ -132,6 +142,8 @@ print(t1.calculate_pay)
 ```
 
 # META
+
+* Rewire the class at instantiation
 
 ```python
 
