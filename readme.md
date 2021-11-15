@@ -17,6 +17,7 @@ that is used by companies and government agencies
 around the world.
 
 I help my clients automate the engineering tasks of:
+
 :abacus: Data acquisition
 
 :chart_with_upwards_trend: Data analysis
