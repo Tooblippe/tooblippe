@@ -9,7 +9,7 @@ I am an electrical engineer with more that 20 years experience in
 the energy supply and consulting environment.
 
 My passion for `Python development` have set me down a slow but 
-steady path to become a self employed full stack developer.
+steady path to become a self-employed full stack developer.
 
 Most of my clients are in the engineering space although 
 my largest project is an international trade application 
