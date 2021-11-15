@@ -18,13 +18,13 @@ around the world.
 
 **I help my clients automate the engineering tasks of:**
 
-    :abacus: Data acquisition
-    
-    :chart_with_upwards_trend: Data analysis
-    
-    :outbox_tray: Automated reporting in many formats
-    
-    :bar_chart: Tailored web applications and BI applications
+:abacus: Data acquisition
+
+:chart_with_upwards_trend: Data analysis
+
+:outbox_tray: Automated reporting in many formats
+
+:bar_chart: Tailored web applications and BI applications
 
 
 Below is a listing of some of the interesting work have been doing with my clients.
