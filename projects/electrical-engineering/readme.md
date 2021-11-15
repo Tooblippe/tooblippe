@@ -30,8 +30,8 @@ For this project maybe as much time went into building the workflow than maybe t
 
 ## Packages Employed
 * Custom PSS/E to Pandapower network translator
-* PandaPower - http://www.pandapower.org/
-* PyPSA - https://github.com/pypsa-meets-africa/pypsa-africa
+* [PandaPower](http://www.pandapower.org/)
+* [PyPSA](https://github.com/pypsa-meets-africa/pypsa-africa)
 * python-pptx
 * matplotlib
 * pandas
