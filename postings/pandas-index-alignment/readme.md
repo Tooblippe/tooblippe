@@ -1,0 +1,1 @@
+![pandas-index-alignment](assets/combined.plot.png)
