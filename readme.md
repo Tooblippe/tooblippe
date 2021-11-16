@@ -54,8 +54,8 @@ Get in touch to discuss how we can automate your boring tasts -
 * [Python training and courses](projects/python-course/readme.md)
 * [Printed Circuit Board design and assembly for brick making robots](projects/pcb/readme.md)
 * [Programmatic block diagrams and flow charts](projects/block-diagrams/readme.md)
+* [Large Engineering data sets analysis](projects/energy-industrial/readme.md)
 * Automated social media posting
-* Big Engineering data sets analysis
 * Automated data acquisition
 * Mailing list integration
 
